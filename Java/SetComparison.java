@@ -6,7 +6,7 @@ public class SetComparison {
 
 		 int count;
 		 long start, end; //Values for milliseconds
-		 int[] list1 = new int[100000]; //Sets an array of 50000 ints
+		 int[] list1 = new int[100000]; //Sets an array of 100000 ints
 		 int[] list2 = new int[100000];
 		 Random gen = new Random(); //Initialize random class
 

@@ -1,5 +1,5 @@
-//Period 2
 //Warren Seto
+//Period 2
 
 import java.util.Scanner;
 import java.text.DecimalFormat;

@@ -4,6 +4,8 @@
 
 This repository contains all of my high school projects when I was just getting into the field of Computer Science.
 
+Fun Fact, all of these projects were developed using Wascana (C++) or Eclipse (Java)
+
 ## Requirements
 
 - C++: A computer with GCC/LLVM
@@ -18,7 +20,7 @@ Note: The C++ projects in this repository were done in 2009-2010
 
 - [HangM.cpp](/C++/HangM.cpp): A simple C++ program that allows the user to play the conventional Hangman. [Rules for Hangman](https://en.wikipedia.org/wiki/Hangman_(game))
 
-- [Nim.cpp](https://en.wikipedia.org/wiki/Nim): A simple C++ program that allows the user to play Nim. [Rules for Nim](/C++/Nim.cpp)
+- [Nim.cpp](/C++/Nim.cpp): A simple C++ program that allows the user to play Nim. [Rules for Nim](https://en.wikipedia.org/wiki/Nim)
 
 ## Java Projects
 
