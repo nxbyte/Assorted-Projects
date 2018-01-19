@@ -32,7 +32,7 @@ Note: The Java projects in this repository were done in 2010-2012
 
 #### Notable:
 
-- [Word Puzzel](/ObjectiveC/WordPuzzle): A simple Objective-C program that finds a word in a matrix of characters in a text file
+- [Word Puzzle](/ObjectiveC/WordPuzzle): A simple Objective-C program that finds a word in a matrix of characters in a text file
 
 ## License
 
