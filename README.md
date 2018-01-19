@@ -4,13 +4,15 @@
 
 This repository contains all of my high school projects when I was just getting into the field of Computer Science.
 
-Fun Fact, all of these projects were developed using Wascana (C++) or Eclipse (Java)
+Fun Fact, all of these projects were developed using Wascana (C++), Eclipse (Java), Xcode (Objective-C)
 
 ## Requirements
 
 - C++: A computer with GCC/LLVM
 
 - Java: A computer with the Java SE 7+
+
+- Objective-C: macOS High Sierra or newer & Xcode 9+
 
 ## C++ Projects
 
